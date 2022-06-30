@@ -4,6 +4,11 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## 0.5.3-1 - 2022-06-27
+
+- ### updating dependcies
+ updated depencies to the latest version
+
 ## 0.5.3 - 2022-02-27
 
 ### New Features
